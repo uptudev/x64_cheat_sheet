@@ -1,7 +1,6 @@
-# x64 Cheat Sheet
+# x86_64 Cheat Sheet
 
-
-## x64 Registers
+## x86_64 Registers
 
 8-byte register | Byte 0-3 | Bytes 0-1 | Byte 0
 ----------------|----------|-----------|-------
